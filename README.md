@@ -51,3 +51,20 @@ This repository contains a dataset of court decisions along with their correspon
 ## Structure
 
 The repository is organized as follows:
+
+
+- **/court_decisions/**: This folder contains the Word document files of court decisions.
+- **/annotations/**: This folder contains a CSV file that maps each document to its annotated normative sentences.
+
+### Files
+
+- `annotations.csv`: A CSV file that includes:
+  - `document_name`: The name of the Word document.
+  - `annotated_sentences`: The normative sentences extracted and annotated from the corresponding court decision.
+
+## How to Use
+
+1. **Clone the Repository**: You can clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
+
