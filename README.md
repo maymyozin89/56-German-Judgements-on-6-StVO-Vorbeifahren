@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository contains a dataset of German court decisions on § 6 StVO (Vorbeifahren) in the form of Word documents along with a corresponding CSV file. The dataset is designed to facilitate research and analysis of normative sentences in court rulings.
+This repository contains a dataset of 56 German court decisions on § 6 StVO (Vorbeifahren) in the form of Word documents along with a corresponding CSV file. The dataset is designed to facilitate research and analysis of normative sentences in court rulings.
 
 ## Contents
 
