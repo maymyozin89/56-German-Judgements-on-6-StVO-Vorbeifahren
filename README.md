@@ -8,7 +8,7 @@ This repository contains a dataset of 56 German court decisions on § 6 StVO (Vo
 
 The repository includes:
 
-- **/court_decisions/**: A folder containing Word document files of court decisions.
+- **/court_decisions/**: A folder containing 56 Word document files of German court decisions.
 - **normative_sentences.csv**: A CSV file that includes the document names and the annotated normative sentences extracted from those documents.
 
 ## Dataset Structure
