@@ -33,5 +33,5 @@ The `normative_sentences.csv` file has the following columns:
 1. **Download the dataset**: You can download or clone this repository to your local machine using the following command:
    
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/maymyozin89/56-German-Judgements-on-6-StVO-Vorbeifahren.git
 
