@@ -14,8 +14,8 @@ The repository includes:
 ## Dataset Structure
 
 - **court_decisions/**
-  - `decision1.docx`
-  - `decision2.docx`
+  - `AG Frankenthal 30.6.2017_3a C 278_16.docx`
+  - `AG Hamburg-St Georg 20.08.2015_924 C 29_15.docx`
   - ...
 - **normative_sentences.csv**
   
@@ -28,9 +28,9 @@ The `normative_sentences.csv` file has the following columns:
 | `document_name`       | The name of the Word document containing the court decision. |
 | `normative_sentences`   | The annotated normative sentence extracted from the court decision.  |
 
-## Usage
+## How to Use
 
-1. **Download the dataset**: Clone or download the repository to your local machine.
+1. **Download the dataset**: You can download or clone this repository to your local machine using the following command:
    
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
