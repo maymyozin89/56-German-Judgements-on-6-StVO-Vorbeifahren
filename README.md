@@ -28,6 +28,13 @@ The `normative_sentences.csv` file has the following columns:
 | `document_name`       | The name of the Word document containing the court decision. |
 | `normative_sentences`   | The annotated normative sentences extracted from the court decision.  |
 
+### Files
+
+- `annotations.csv`: A CSV file that includes:
+  - `document_name`: The name of the Word document.
+  - `annotated_sentences`: The normative sentences extracted and annotated from the corresponding court decision.
+
+
 ## How to Use
 
 1. **Download the dataset**: You can download or clone this repository to your local machine using the following command:
