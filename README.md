@@ -1,1 +1,1 @@
-# 56-German-Judgements-on-6-StVO-Vorbeifahren
+Court Decisions Dataset with Annotated Normative Sentences
