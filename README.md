@@ -40,3 +40,14 @@ The `normative_sentences.csv` file has the following columns:
    
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+
+# Court Decisions Dataset
+
+## Overview
+
+This repository contains a dataset of court decisions along with their corresponding annotated normative sentences. The dataset includes a folder with Word document files of the court decisions and a CSV file that lists the document names along with the annotated sentences.
+
+## Structure
+
+The repository is organized as follows:
