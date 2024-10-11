@@ -26,7 +26,7 @@ The `normative_sentences.csv` file has the following columns:
 | Column Name            | Description                                               |
 |-----------------------|-----------------------------------------------------------|
 | `document_name`       | The name of the Word document containing the court decision. |
-| `normative_sentences`   | The annotated normative sentence extracted from the court decision.  |
+| `normative_sentences`   | The annotated normative sentences extracted from the court decision.  |
 
 ## How to Use
 
